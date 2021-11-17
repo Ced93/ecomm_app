@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ecomm_app",
-    "slug": "ecomm_app",
+    "name": "TeslaClone",
+    "slug": "TeslaClone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
